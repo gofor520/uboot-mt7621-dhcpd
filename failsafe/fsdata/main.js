@@ -549,7 +549,7 @@ function upload(n) {
     }
 
     function b() {
-        for (var n, u, t, r = document.querySelectorAll("div#version"), i = 0; i < r.length; i++)(n = r[i], n) && ((u = n.querySelector(".yuzhii-tag"), u) || (t = document.createElement("span"), t.className = "yuzhii-tag", t.textContent = "💡Yuzhii", n.textContent && n.textContent.trim().length > 0 && n.appendChild(document.createTextNode(" ")), n.appendChild(t)))
+        for (var n, u, t, r = document.querySelectorAll("div#version"), i = 0; i < r.length; i++)(n = r[i], n) && ((u = n.querySelector(".Gofor-tag"), u) || (t = document.createElement("span"), t.className = "Gofor-tag", t.textContent = "💡Gofor", n.textContent && n.textContent.trim().length > 0 && n.appendChild(document.createTextNode(" ")), n.appendChild(t)))
     }
 
     function v() {
